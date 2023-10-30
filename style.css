@@ -1,0 +1,34 @@
+li { 
+    list-style-type: square 
+}
+#cena { 
+    color: red; font-weight: bold 
+}
+.wstęp{
+    font-style: italic;
+}
+td img { 
+    border-color: blue; 
+    border-style: solid 
+}
+td img:hover { 
+    border-color: red; 
+    border-style: solid 
+}
+h1 + h2 { 
+    letter-spacing: 5px 
+}
+td[colspan="2"] > p { 
+    font-size: small 
+}
+p + p { 
+    color: gray 
+}
+body { 
+    background-color: antiquewhite;
+    background-image: url(https://pa1.aminoapps.com/7113/c73af304fa35143693da63f2d68ad75891417ee9r1-500-281_hq.gif); 
+    background-repeat: repeat-y
+} 
+h1 { 
+    color: purple !important;
+}
